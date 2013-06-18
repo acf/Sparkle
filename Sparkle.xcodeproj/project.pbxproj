@@ -1548,12 +1548,14 @@
 		1DEB91B208733DA50010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Developer ID Application: Distributed Creation Inc (9962T6AKMH)";
 			};
 			name = Debug;
 		};
 		1DEB91B308733DA50010E9CD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Developer ID Application: Distributed Creation Inc (9962T6AKMH)";
 			};
 			name = Release;
 		};
@@ -1650,6 +1652,7 @@
 		61072EAD0DF263BD008FE88B /* Release (GC dual-mode; 10.5+) */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Developer ID Application: Distributed Creation Inc (9962T6AKMH)";
 			};
 			name = "Release (GC dual-mode; 10.5+)";
 		};
