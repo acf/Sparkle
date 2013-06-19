@@ -1740,7 +1740,7 @@
 			baseConfigurationReference = 8B887B711517F447000BB292 /* ConfigServiceDebug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Distributed Creation Inc (9962T6AKMH)";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
 				INFOPLIST_FILE = SandboxService.plist;
@@ -1754,7 +1754,7 @@
 			baseConfigurationReference = 8B887B721517F447000BB292 /* ConfigServiceRelease.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Distributed Creation Inc (9962T6AKMH)";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
 				INFOPLIST_FILE = SandboxService.plist;
@@ -1767,7 +1767,7 @@
 			baseConfigurationReference = 8B887B721517F447000BB292 /* ConfigServiceRelease.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Distributed Creation Inc (9962T6AKMH)";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
 				INFOPLIST_FILE = SandboxService.plist;
